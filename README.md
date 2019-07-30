@@ -5,7 +5,7 @@ My Fourth project at Misk-Udacity - Front-End Web Developer Nanodegree Program
 https://github.com/udacity/frontend-nanodegree-feedreader
 
 # Project Overview
-For the Restaurant Reviews projects, you will incrementally convert a static webpage to a mobile-ready web application. In Stage One, you will take a static design that lacks accessibility and convert the design to be responsive on different sized displays and accessible for screen reader use. You will also add a service worker to begin the process of creating a seamless offline experience for your users.
+In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
 
 # Run App
 * Open `index.html` in your browser
